@@ -13,6 +13,7 @@
 ### [Recent Trends in Deep Learning Based NLP](https://arxiv.org/abs/1708.02709)
 ### [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608)
 ### [Person Re-identiﬁcation Past, Present and Future](https://arxiv.org/abs/1610.02984)
+### [Graph Neural Networks: A Review of Methods and Applications](arxiv.org/abs/1812.08434)
 ### [What Do Single-view 3D Reconstruction Networks Learn](https://arxiv.org/abs/1905.03678)
 ### [Secrets of Optical Flow Estimation and Their Principles](https://www.researchgate.net/publication/221364345_Secrets_of_Optical_Flow_Estimation_and_Their_Principles)
 ### [Event-based Vision A Survey](https://arxiv.org/abs/1904.08405?context=cs)
