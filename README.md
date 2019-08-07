@@ -15,7 +15,11 @@
 ### [Person Re-identiﬁcation Past, Present and Future](https://arxiv.org/abs/1610.02984)
 ### [Graph Neural Networks: A Review of Methods and Applications](arxiv.org/abs/1812.08434)
 ### [What Do Single-view 3D Reconstruction Networks Learn](https://arxiv.org/abs/1905.03678)
+### [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/abs/1704.06857)
+### [Deep Learning in Video Multi-Object Tracking: A Survey](https://arxiv.org/abs/1907.12740)
+### [AutoML- A Survey of the State-of-the-Art](https://arxiv.org/abs/1908.00709)
 ### [Secrets of Optical Flow Estimation and Their Principles](https://www.researchgate.net/publication/221364345_Secrets_of_Optical_Flow_Estimation_and_Their_Principles)
+### [Machine Learning - The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 ### [Event-based Vision A Survey](https://arxiv.org/abs/1904.08405?context=cs)
 
 
