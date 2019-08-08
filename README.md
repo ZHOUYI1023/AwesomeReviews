@@ -21,7 +21,7 @@
 ### [Secrets of Optical Flow Estimation and Their Principles](https://www.researchgate.net/publication/221364345_Secrets_of_Optical_Flow_Estimation_and_Their_Principles)
 ### [Machine Learning - The High Interest Credit Card of Technical Debt](https://ai.google/research/pubs/pub43146)
 ### [Event-based Vision A Survey](https://arxiv.org/abs/1904.08405?context=cs)
-
+### [A Review of Point Cloud Registration Algorithms for Mobile Robotics](https://ieeexplore.ieee.org/document/8187578)
 
 ---
 
